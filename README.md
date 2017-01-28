@@ -14,4 +14,4 @@ Changelog:
 
 1.7:
 
--
+- Removed Master Yi
