@@ -1,8 +1,4 @@
-Champions pushed: Thresh, Corki, Diana
-
-Autorized users so far to test it:
-
-"mrarticuno", "frazer", "yorik100", "tokuchi"
+Champions pushed: Thresh, Corki, Diana, Ekko
 
 Changelog:
 
@@ -15,3 +11,7 @@ Changelog:
 1.7:
 
 - Removed Master Yi
+
+- Auth System added
+
+- Added Ekko
