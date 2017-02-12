@@ -1,17 +1,7 @@
-Champions pushed: Thresh, Corki, Diana, Ekko
+Beasty Riven Changelog:
 
 Changelog:
 
-1.6:
+1.0.4.3:
 
-- Thresh LaneClear and JungleClear Added
-
-- Removed buddyOnly mark
-
-1.7:
-
-- Removed Master Yi
-
-- Auth System added
-
-- Added Ekko
+- Public Release
