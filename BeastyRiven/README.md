@@ -24,6 +24,12 @@ Changelog:
 
 - new try in fix the Q minions during combo (damn orbwalker);
 
+1.0.8.3:
+
+- new auth method;
+
+- version check;
+
 1.1.0.0 (not released):
 
 - various types of combo;
