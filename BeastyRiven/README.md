@@ -17,3 +17,5 @@ Changelog:
 - added menu option to not gapcloser with Q;
 
 - flee E and Q usage fix;
+
+1.0.7.3:
