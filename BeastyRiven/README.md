@@ -30,6 +30,22 @@ Changelog:
 
 - version check;
 
+1.0.9.3
+
+- fix problem to inject;
+
+1.0.9.4
+
+- fix gap closing after disable in menu;
+
+- final fix Q to minions direction;
+
+- Added keep Q alive (MISC MENU)
+
+- Added QSS support;
+
+- Better burst;
+
 1.1.0.0 (not released):
 
 - various types of combo;
