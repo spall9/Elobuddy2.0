@@ -44,7 +44,17 @@ Changelog:
 
 - Added QSS support;
 
+- fixed E during flee;
+
 - Better burst;
+
+1.0.9.5:
+
+- added flee option to jump walls (flee menu);
+
+- added option to draw jumplable walls (draw menu);
+
+- fixed keep q alive cancelling recall
 
 1.1.0.0 (not released):
 
