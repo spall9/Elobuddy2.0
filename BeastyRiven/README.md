@@ -57,3 +57,15 @@ Changelog:
 - fixed keep q alive cancelling recall; (thx frazer for the report);
 
 - fixed Q counter;
+
+1.0.9.6:
+
+- fixed problem that was not AA after some time (blame DNK);
+
+- added smite option;
+
+- fixed W/hydra casting out of the range;
+
+1.0.9.7:
+
+- improved flee jumpwall;
