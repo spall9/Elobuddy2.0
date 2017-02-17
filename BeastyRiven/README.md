@@ -54,8 +54,6 @@ Changelog:
 
 - added option to draw jumplable walls (draw menu);
 
-- fixed keep q alive cancelling recall
+- fixed keep q alive cancelling recall; (thx frazer for the report);
 
-1.1.0.0 (not released):
-
-- various types of combo;
+- fixed Q counter;
