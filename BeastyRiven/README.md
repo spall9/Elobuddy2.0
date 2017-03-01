@@ -69,3 +69,23 @@ Changelog:
 1.0.9.7:
 
 - improved flee jumpwall;
+
+1.1.0.0:
+
+- Added new Types of Combo;
+
+- Added Shy Combo;
+
+- Added DoubleCast Combo;
+
+- Added All In Combo;
+
+- Fixed minor bugs;
+
+- Fixed Skin Changer;
+
+- Faster reactions;
+
+- Faster combo;
+
+- Smooth Q>AA;
