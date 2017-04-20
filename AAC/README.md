@@ -17,3 +17,9 @@ Changelog:
 - Fixed last hit;
 - Fixed Orbwalker issues;
 - Added orbwalker standalone for non supported champions;
+
+1.0.0.8
+
+- Improved OrbWalker;
+- Added Tristana Plugin;
+- Added free week until 26/04;
