@@ -27,3 +27,7 @@ Changelog:
 1.0.0.9:
 
 - Added Xayah Plugin;
+
+1.0.0.9.1:
+
+- Minor fixes to Xayah;
