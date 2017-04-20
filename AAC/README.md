@@ -12,14 +12,18 @@ Changelog:
 - Shyvana, Reksai, Garen, Rengar, Azir;
 - Fixed Garen ultimate;
 
-1.0.0.7
+1.0.0.7:
 
 - Fixed last hit;
 - Fixed Orbwalker issues;
 - Added orbwalker standalone for non supported champions;
 
-1.0.0.8
+1.0.0.8:
 
 - Improved OrbWalker;
 - Added Tristana Plugin;
 - Added free week until 26/04;
+
+1.0.0.9:
+
+- Added Xayah Plugin;
