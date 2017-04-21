@@ -35,3 +35,7 @@ Changelog:
 1.0.1.0:
 
 - Added Caitlyn Plugin; http://i.imgur.com/aM8e1lp.png
+
+1.0.1.1:
+
+- Fixed orbwalker when attacking inhibitors and nexus;
