@@ -31,3 +31,7 @@ Changelog:
 1.0.0.9.1:
 
 - Minor fixes to Xayah;
+
+1.0.1.0:
+
+- Added Caitlyn Plugin; http://i.imgur.com/aM8e1lp.png
