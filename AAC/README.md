@@ -39,3 +39,8 @@ Changelog:
 1.0.1.1:
 
 - Fixed orbwalker when attacking inhibitors and nexus;
+
+1.0.1.3:
+
+- Changed Caitlyn auto E in combo to lower range;
+- Added option to disable orbwalker movement;
