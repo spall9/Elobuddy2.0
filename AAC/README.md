@@ -44,3 +44,13 @@ Changelog:
 
 - Changed Caitlyn auto E in combo to lower range;
 - Added option to disable orbwalker movement;
+
+1.0.1.3:
+
+- Changed Caitlyn auto E in combo to lower range;
+- Added option to disable orbwalker movement;
+
+1.0.1.4:
+
+- Added Vayne Plugin;
+- Fixed SDK;
