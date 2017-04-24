@@ -54,3 +54,9 @@ Changelog:
 
 - Added Vayne Plugin;
 - Fixed SDK;
+
+1.0.1.5:
+
+- Added interrupter of dangerous spells for Tristana and Vayne;
+- Added Anti Gap Closer for Caitlyn and Tristana;
+- Added Flee for Caitlyn and Tristana;
