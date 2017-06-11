@@ -60,3 +60,6 @@ Changelog:
 - Added interrupter of dangerous spells for Tristana and Vayne;
 - Added Anti Gap Closer for Caitlyn and Tristana;
 - Added Flee for Caitlyn and Tristana;
+
+1.0.2.0:
+- Riven Preview;
