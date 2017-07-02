@@ -28,6 +28,14 @@ namespace SpammerDisrespect
             Notifications.Show(new SimpleNotification("Toxic", "Disrespect Injected"));
             Chat.OnInput += OnInput;
             Game.OnNotify += GameOnOnNotify;
+            Orbwalker.OnPostAttack += delegate(AttackableUnit target, EventArgs eventArgs)
+            {
+                if (Player.Instance.Hero == Champion.Lux || Player.Instance.Hero == Champion.Teemo ||
+                    Player.Instance.Hero == Champion.Lulu)
+                {
+                    Chat.Say("/l");
+                }
+            };
         }
 
         public static void GameOnOnNotify(GameNotifyEventArgs args)
